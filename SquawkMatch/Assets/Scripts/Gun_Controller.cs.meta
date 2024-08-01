@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 330b40fa39a738e44861658700e72330
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Camera: {instanceID: 0}
+  - Shoot_Sound: {instanceID: 0}
+  - Bullet_Object: {fileID: 3792428493006476150, guid: 527507ba198141842846e5ef9cf400e6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
